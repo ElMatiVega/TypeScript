@@ -18,5 +18,5 @@ const hero={
 }
 //hero.age='50'//por consola veriamos 501 porque concat un string con un number
 
-hero.age=50
-console.log(hero.age + 1);
+hero.age= 50;
+console.log( hero.age + 1 )
